@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">历史上的今天</string>
+    <string name="loading">正在载入...</string>
+
+</resources>
